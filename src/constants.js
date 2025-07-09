@@ -32,7 +32,7 @@ import webverseLogo from "./assets/company_logo/paliwal.png";
 import substringLogo from "./assets/company_logo/substring_technology.png";
 
 // Education Section Logo's
-import glaLogo from "./assets/education_logo/gla_logo.png";
+
 import bsaLogo from "./assets/education_logo/bsa_logo.png";
 import vpsLogo from "./assets/education_logo/vps_logo.png";
 
@@ -147,7 +147,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: glaLogo,
+
     school: "GLA University, Mathura",
     date: "Sept 2022 - July 2024",
     grade: "7.81 CGPA",
