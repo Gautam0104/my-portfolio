@@ -31,11 +31,6 @@ import vercelLogo from "./assets/tech_logo/vercel.png";
 import webverseLogo from "./assets/company_logo/paliwal.png";
 import substringLogo from "./assets/company_logo/substring_technology.png";
 
-// Education Section Logo's
-
-import bsaLogo from "./assets/education_logo/bsa_logo.png";
-import vpsLogo from "./assets/education_logo/vps_logo.png";
-
 // Project Section Logo's
 import tpmLogo from "./assets/work_logo/tpm.png";
 import ezerpLogo from "./assets/work_logo/ezerp.png";
@@ -156,7 +151,7 @@ export const education = [
   },
   {
     id: 1,
-    img: bsaLogo,
+
     school: "BSA College, Mathura",
     date: "Sept 2018 - Aug 2021",
     grade: "73.2%",
@@ -165,7 +160,7 @@ export const education = [
   },
   {
     id: 2,
-    img: vpsLogo,
+
     school: "Vatsalya Public School Govardhan, Mathura",
     date: "Apr 2017 - March 2018",
     grade: "78%",
@@ -174,7 +169,7 @@ export const education = [
   },
   {
     id: 3,
-    img: vpsLogo,
+
     school: "Vatsalya Public School Govardhan, Mathura",
     date: "Apr 2015 - March 2016",
     grade: "87.5%",
